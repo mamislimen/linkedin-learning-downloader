@@ -12,6 +12,7 @@ import logging
 import pickle
 import win_unicode_console
 
+
 win_unicode_console.enable()
 os.environ["PYTHONIOENCODING"] = "cp65001:replace"
 login_url = 'https://www.linkedin.com/'
